@@ -1,0 +1,37 @@
+Hola a todes,
+
+Les escribo porque han completado la pre-inscripción de la asignatura “Taller de Física Computacional". Mi nombre es Cristián G. Sánchez y junto con el Dr. Carlos J. Ruestes somos quienes que los va a compañar/guiar/etc. en este espacio curricular. 
+
+IMPORTANTE: este email tiene MUCHA información, por favor leer atentamente!!!
+
+Este curso se dictará en forma completamente asincrónica. Con clases de consulta un par de veces por semana, los días miércoles y viernes de 10 a 12 en principio por Discord (ver más abajo). 
+
+Por favor enrólense en cuanto les sea posible en el curso en Google Classroom usando el siguiente URL:
+
+https://classroom.google.com/c/Mzc2OTYyMzcyOTQ0?cjc=a5qbrt2
+
+Es el lugar donde vamos a ir agregando todo el material necesario para el desarrollo de la asignatura. Ya hay un primer material de clase con la forma de desarrollo de la asignatura y una introducción. Cada vez que yo publique algo recibirán una notificación por mail. PEEEERO: Cundo Uds. hagan algún comentario en el tablón yo no recibo notificación, para eso usar el Discord (ver más abajo).
+
+El material de clase serán videos, notas (en general las “transparencias” usadas en la clase en PDF) y ejemplos resueltos o "demos" de notebooks. Las fuentes de todo el material serán subidas a un repositorio en GitHub:
+
+https://github.com/cgsanchez/TFC_FCEN_2021
+
+Este curso es puramente práctico. No hay otra forma de aprender a programar que programando. Cada clase tendrá una ejercitación que les pido completen y suban como respuesta a las "tareas" que iremos agregando a cada tema. No tienen carácter evaluatorio, nos permitirán ayudarlos a avanzar con el curso. 
+
+Es difícil explicar todo esto en el aire, suguiero tener paciencia e ir viendo cómo va. La ejercitación puede no ser trivial y requerir buscar información en “internet”, leer partes de bibliografía recomendada, etc., puede que quizás no sea del estilo al que están acostumbrados. Esta es una asignatura avanzada y parte de las competencias que se pretenden desarrollar es la capacidad de trabajo independiente e investigación. Es natural y esperable que los ejercicios no les salgan de entrada. No se desanimen, intenten varias veces, googleen y pregunten.
+
+Los parciales serán para hacer con un período de días entre que los publiquemos y Uds. los entreguen como un notebook (un par de días hasta ahora anduvo bien) en Google Classroom. Los parciales serán a “libro abierto” y podrán acceder a toooodo lo que quieran para resolverlos. 
+
+Aquí va un URL para unirse a un servidor de Discord que será el lugar que usaremos para discusiones interactivas, etc.. Para los que no lo conozcan Discord permite chat escrito, voz, video, reuniones, todo en una misma plataforma. En general es usador por “gamers” pero es genial para tener discusiones interactivas sobre cualquier cosa. Puede usarse dentro de un navegador, en una aplicación de escritorio en una PC o en plataformas móbiles con una app. Si no tienen una cuenta en Discord la van atener que generar para unirse al servidor.
+
+https://discord.gg/QgFxwRh6
+
+Discord es el lugar ideal para hacer preguntas e interactuar, por favor úsenlo compartiendo dudas, preguntas y observaciones. Pueden escribirme directamente por ahí o a este email: cristian.g.sanchez@gmail.com 
+
+En los vdeos se menciona un canal de Telegram, eso usamos el año pasado, este año usaremos Discord.
+
+Saludos y estemos en contacto!
+
+C.
+
+P.D: Ante la duda: Discord.
