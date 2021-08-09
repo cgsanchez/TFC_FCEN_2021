@@ -1,0 +1,52 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[outputdir=.build]{minted}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\hypersetup{
+    colorlinks = true
+}
+
+\usetheme{Madrid}
+
+%Information to be included in the title page:
+\title{Taller de Física Computacional (Serie S)}
+\subtitle{Diseño y construcción}
+\author{Cristián G. Sánchez y Carlos J. Ruestes}
+\date{2021}
+
+\begin{document}
+
+\frame{\titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[fragile]
+    \frametitle{Diseño o construcción de programas}
+    \begin{itemize}
+        \item Analizar el problema: ¿Cuál es el problema a resolver? Incluyendo el contexto en el que se usará.
+        \item Especificar la solución: ¿Qué debe hacer el programa? Sin importar el cómo.
+        \item Diseñar la solución: ¿Cómo vamos a resolver el problema? Dividimos en sub-problemas, etc..
+        \item Implementar el diseño: Traducir el diseño a un lenguaje de progrmación.
+        \item Probar el programa: Diseñar pruebas para cada una de las partes por separado asi como su correcta integración.
+        Depurar el código hasta que todas las pruebas pasen.
+        \item Mantener el programa: Realizar los cambios necesarios en respuesta e nuevas demandas.
+    \end{itemize}
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{Síntesis y recursos:}
+
+\begin{itemize}
+\item \href{https://numpy.org/doc/stable/}{Documentación de NumPy}
+\item \href{https://numpy.org/doc/stable/reference/routines.math.html}{Funciones matemáticas en NumPy}
+
+\end{itemize}
+\end{frame}
+
+\end{document}
